@@ -1,1 +1,2 @@
 # Non-Sequential-Counter
+Program Description: This is a 4 bit counter that is non-sequential which will be displayed on the first 7-segment display and the output of LED's 0-3. SW0 starts the sequance which is C,A,4,5,7,3,F,6,9 when it is active high. A DFlip-Flop module is required and must be instantiated 4 times. The  proper Verilog code was constructed by using State Machines charts and K-maps.
